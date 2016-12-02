@@ -65,6 +65,7 @@ import pwndbg.stack
 import pwndbg.stdio
 import pwndbg.typeinfo
 import pwndbg.vmmap
+import pwndbg.commands.user_custom
 
 try:
     import unicorn
